@@ -1,0 +1,11 @@
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    background-color: var(--details-color);
+    box-shadow: var(--box-shadow);
+    margin-top: 80px;
+    p{
+        font-weight: 800;
+    }
+}

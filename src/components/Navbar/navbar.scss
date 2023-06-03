@@ -1,0 +1,19 @@
+header{
+    background-color:  var(--details-color);
+    box-shadow: var(--box-shadow);
+    nav{
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 0;
+        a{
+            color: var(--text-color);
+        }
+    }
+    .titleWrapper{
+        display: flex;
+        align-items: center;
+        img{
+            margin-right: 10px;
+        }
+    }
+}
